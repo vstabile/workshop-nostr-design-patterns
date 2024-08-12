@@ -1,0 +1,15 @@
+.slidev-layout h1 + p {
+  opacity: 0.65;
+}
+
+.slidev-layout.fact h1 {
+  font-size: 5rem;
+}
+
+.highlight {
+  font-weight: 600;
+  background: linear-gradient(to right, #f97316, #fb923c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
