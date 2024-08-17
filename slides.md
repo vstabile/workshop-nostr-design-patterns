@@ -2,6 +2,7 @@
 theme: default
 background: /ostriches-cover.jpg
 title: Software Design Patterns for Nostr Applications
+favicon: /favicon.png
 class: text-center
 drawings:
   persist: false
