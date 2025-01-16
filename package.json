@@ -2,6 +2,13 @@
   "name": "workshop-nostr-design-patterns",
   "type": "module",
   "private": true,
+  "author": "Victor Stabile",
+  "license": "MIT",
+  "keywords": [
+    "nostr",
+    "workshop",
+    "design patterns"
+  ],
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
